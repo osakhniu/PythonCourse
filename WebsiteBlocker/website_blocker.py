@@ -8,7 +8,7 @@ with the lines that the file had before modification.
 import time
 from datetime import datetime as dt
 
-hosts_path="/etc/hosts"
+hosts_path="/etc/hosts_copy"
 redirect='127.0.0.1'
 website_list=['facebook.com','www.facebook.com']
 
